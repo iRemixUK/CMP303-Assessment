@@ -1,8 +1,92 @@
-﻿  Server.cpp
-D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Server.cpp(23,17): warning C4101: 'otherBulletsPort': unreferenced local variable
+﻿  Background.cpp
+  Bullet.cpp
+  BulletManager.cpp
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\BulletManager.cpp(27,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\BulletManager.cpp(27,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Animation.cpp
+  AudioManager.cpp
+  Collision.cpp
+  GameObject.cpp
+  GameState.cpp
+  Input.cpp
+  MusicObject.cpp
+  SoundObject.cpp
+  TileMap.cpp
+  Vector.cpp
+  Level.cpp
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\Level.cpp(17,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\Level.cpp(17,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\Level.cpp(33,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\Level.cpp(33,43): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Networking.cpp
+  Player.cpp
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\Player.cpp(73,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Server.cpp
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\Server.cpp(23,17): warning C4101: 'otherBulletsPort': unreferenced local variable
+  WinScreen.cpp
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\WinScreen.cpp(13,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\WinScreen.cpp(13,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\WinScreen.cpp(21,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\CMP303-Assessment\Server\Assignment\WinScreen.cpp(21,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
   Generating code
-  1 of 314 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+  301 of 314 functions (95.9%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    2 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  Assignment.vcxproj -> D:\University Stuff\CMP 303\Assignment - Copy\Server\x64\Release\Assignment.exe
+  Assignment.vcxproj -> C:\Users\Aaron\Desktop\CMP303-Assessment\Server\x64\Release\Assignment.exe

@@ -263,3 +263,13 @@ void Level::endDraw()
 {
 	window->display();
 }
+
+// References for textures
+//(123RF, no date) Vector – Animated soldier game character sprites.Available at
+//https://www.123rf.com/photo_107336218_stock-vector-animated-soldier-game-charactersprites.html [Accessed 30 October. 2021].
+
+//(123RF, no date) Vector – Animated soldier game character sprites.Available at
+//https://www.123rf.com/photo_107336220_stock-vector-animated-soldier-game-charactersprites.html [Accessed 30 October. 2021]
+
+//(Tutt, 2018) Project Atelier Concept Art (University FMP) Textures: Floors, Magic Wallpapers, book pages & logo. Available at 
+//https://www.artstation.com/artwork/zAKZ36 [Accessed 30 October. 2021]
