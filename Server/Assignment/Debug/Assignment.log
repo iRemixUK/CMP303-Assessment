@@ -1,0 +1,35 @@
+﻿  Background.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\GameObject.h(8,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Bullet.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\GameObject.h(8,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  BulletManager.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\GameObject.h(8,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Animation.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\Animation.h(8,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  AudioManager.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\SoundObject.h(7,10): fatal error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  Collision.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\GameObject.h(8,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  GameObject.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\GameObject.h(8,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  GameState.cpp
+  Input.cpp
+  MusicObject.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\MusicObject.h(7,10): fatal error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  SoundObject.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\SoundObject.h(7,10): fatal error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  TileMap.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\GameObject.h(8,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Vector.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\Vector.h(6,10): fatal error C1083: Cannot open include file: 'SFML\System\Vector2.hpp': No such file or directory
+  Level.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Level.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Networking.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Networking.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Network.hpp': No such file or directory
+  Player.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Framework\GameObject.h(8,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Server.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\Server.cpp(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  WinScreen.cpp
+D:\University Stuff\CMP 303\Assignment - Copy\Server\Assignment\WinScreen.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
